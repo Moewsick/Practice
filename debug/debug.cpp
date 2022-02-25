@@ -86,7 +86,7 @@ int main() {
 
     do_something([]() {
         cout << "Hello World" << endl;
-        });
+        }); 
 
     return EXIT_SUCCESS;
 }
