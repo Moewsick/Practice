@@ -84,9 +84,5 @@ int main() {
     int* pi = nullptr;
     pi = reinterpret_cast<int*> (&pi);
 
-    do_something([]() {
-        cout << "Hello World" << endl;
-        });
-
     return EXIT_SUCCESS;
 }
