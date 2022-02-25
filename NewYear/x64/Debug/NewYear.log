@@ -1,0 +1,4 @@
+﻿  NewYear.cpp
+E:\Everything\UW\CS\Practice\NewYear\NewYear.cpp(40,29): warning C4244: '+=': conversion from 'double' to 'unsigned long', possible loss of data
+E:\Everything\UW\CS\Practice\NewYear\NewYear.cpp(104,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  NewYear.vcxproj -> E:\Everything\UW\CS\Practice\x64\Debug\NewYear.exe

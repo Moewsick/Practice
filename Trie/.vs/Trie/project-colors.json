@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d1a062d3-7e95-44d2-a20c-d415680fca1e": {
+      "ProjectGuid": "d1a062d3-7e95-44d2-a20c-d415680fca1e",
+      "DisplayName": "Trie",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

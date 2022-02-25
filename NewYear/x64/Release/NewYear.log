@@ -1,0 +1,8 @@
+﻿  NewYear.cpp
+E:\Everything\UW\CS\Practice\NewYear\NewYear.cpp(40,29): warning C4244: '+=': conversion from 'double' to 'unsigned long', possible loss of data
+E:\Everything\UW\CS\Practice\NewYear\NewYear.cpp(104,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 470 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  NewYear.vcxproj -> E:\Everything\UW\CS\Practice\x64\Release\NewYear.exe

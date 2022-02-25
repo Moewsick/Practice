@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "005f7f4e-e4b2-4679-ad95-5f24c9a1bd77": {
+      "ProjectGuid": "005f7f4e-e4b2-4679-ad95-5f24c9a1bd77",
+      "DisplayName": "searchQuery",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "5f0bc6a8-67d0-40ae-a139-0e889d11d5ec": {
+      "ProjectGuid": "5f0bc6a8-67d0-40ae-a139-0e889d11d5ec",
+      "DisplayName": "CodeList",
+      "ColorIndex": 1
+    },
+    "1d22c8f4-2a23-4396-a55d-0f943a63911a": {
+      "ProjectGuid": "1d22c8f4-2a23-4396-a55d-0f943a63911a",
+      "DisplayName": "NewYear",
+      "ColorIndex": 2
+    },
+    "d5228204-44d6-4ecb-8e0d-6dcd18384498": {
+      "ProjectGuid": "d5228204-44d6-4ecb-8e0d-6dcd18384498",
+      "DisplayName": "debug",
+      "ColorIndex": 3
+    },
+    "60e748b8-85b5-4c5f-a733-6506c4c74714": {
+      "ProjectGuid": "60e748b8-85b5-4c5f-a733-6506c4c74714",
+      "DisplayName": "Truck",
+      "ColorIndex": 4
+    },
+    "8ac60932-462f-44a0-98ef-f34e91ae7306": {
+      "ProjectGuid": "8ac60932-462f-44a0-98ef-f34e91ae7306",
+      "DisplayName": "TextEditor",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
